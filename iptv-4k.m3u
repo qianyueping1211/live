@@ -8,7 +8,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",东方卫视4K
 http://101.35.240.114:88/live.php?id=东方卫视4K
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",江苏卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226468/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",湖南卫视4K
