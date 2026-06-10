@@ -63,8 +63,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 
-#EXTINF:-1 tvg-name="东方卫视4K" group-title="📡卫视频道",东方卫视4K
-https://migu.188766.xyz/?migutoken=59b055177f4e00f9d5249ebecc975689&id=dfws&type=sz
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -101,3 +99,4 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+
