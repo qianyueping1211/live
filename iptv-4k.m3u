@@ -1,6 +1,18 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV4K.png" group-title="📺央视频道",CCTV-4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV5%2B.png" group-title="📺央视频道",CCTV-5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",江苏卫视4K
+http://101.35.240.114:88/live.php?id=江苏卫视4K
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",浙江卫视4K
+http://101.35.240.114:88/live.php?id=浙江卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📡卫视频道",湖南卫视4K
+http://101.35.240.114:88/live.php?id=湖南卫视4K
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",深圳卫视4K
+http://101.35.240.114:88/live.php?id=深圳卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",广东卫视4K
+http://101.35.240.114:88/live.php?id=广东卫视4K
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",北京卫视4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
 
