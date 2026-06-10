@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV4K.png" group-title="📺央视频道",CCTV-4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -11,8 +9,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
