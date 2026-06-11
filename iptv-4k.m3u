@@ -5,6 +5,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/cctv8k.png" group-title="🏆体育频道",cctv8k
 http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/cctv8k.png" group-title="🏆体育频道",cctv8k
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",北京卫视4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
@@ -18,6 +19,7 @@ http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="📡卫视频道",深圳卫视4K
 http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
+
 
 
 
