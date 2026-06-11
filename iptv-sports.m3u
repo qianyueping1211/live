@@ -1,12 +1,11 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV5.png" group-title="🏆体育频道",cctv5
 http://82.156.243.185:36888/av3a/cctv5n.m3u8
+http://82.156.243.185:36888/av3a/cctv5.m3u8
 #EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/cctv5p.png" group-title="🏆体育频道",cctv5p
 http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
 #EXTINF:-1 tvg-name="cctv16" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV16.png" group-title="🏆体育频道",cctv16
 http://82.156.243.185:36888/av3a/cctv16n.m3u8
-#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/CCTV4K.png" group-title="🏆体育频道",cctv4k
-http://82.156.243.185:36888/av3a/cctv4kn.m3u8
-#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://raw.githubusercontent.com/qianyueping1211/live/main/tv/cctv8k.png" group-title="🏆体育频道",cctv8k
-http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+http://82.156.243.185:36888/av3a/cctv16.m3u8
 
